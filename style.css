@@ -1,0 +1,22 @@
+#section1{
+    background: linear-gradient(#000000 0%, #ffffff 100%);
+    text-align: center;
+    padding-top: 100px;
+    z-index:3;
+}
+#portfolioimg{
+    width: 150px;
+    margin-top: 10px;
+    border-radius: 50px
+}
+#TBLinfo{
+    font-family: comic sans-serif;
+    font-size: 18px
+}
+.menu{
+    right:10px;
+    top:5px;
+    list-style:none;
+    z-index:7;
+    position:absolute;
+}
